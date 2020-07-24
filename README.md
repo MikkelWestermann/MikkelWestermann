@@ -3,6 +3,7 @@
 Full-stack JavaScript Engineer
 
 Currently studying Software Engineering @ DTU (in Denmark 🇩🇰)
+
 ![studying gif](https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif)
 
 <!--
